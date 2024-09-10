@@ -24,6 +24,8 @@ $a_k=\frac{1}{n}\sum\limits_{i=1}^n X_i^k$
 $m_k=\frac{1}{n}\sum\limits_{i=1}^n (X_i-a_1)^k$  
   
 ### Assymptotic property for a
+
+[123](https://www.deepl.com/en/translator)
   
 (1) $a_k\overset{a.s.}{\rightarrow}\alpha_k\ if\ |\alpha_k|<\infty$  
 (2) $Ea_k=\alpha_k$  
